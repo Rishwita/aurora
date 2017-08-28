@@ -1,0 +1,128 @@
+<html>
+<head>
+<script language="vbscript">
+if rd1_onclick=true
+then 
+rd2_onclick=false
+end if
+</script>
+
+</head>
+<body background="dance.jpg"> 
+<form>
+<pre>
+  <font face="Jokerman" size=7 color=white align=right><b><u><marquee>Student Registration Form</marquee></u></b></font>
+<font size=5 face="Comic Sans MS"><b>
+
+
+<u><b>STUDENT INFORMATION</u></b>
+Student’s Name: <input type=text size=40> Birth Date:<input type=text>  Age: <input type=text>
+School: <input type=text size=30> Grade:<input type=text> 
+Home Address: <input type=text size=150> 
+City:<input type=text> Zip Code: <input type=text> Home Phone Number: <input type=text>
+
+
+
+<u><b>PARENT(S)/GUARDIAN(S) RESIDING WITH CHILD</u></b>
+1. Name: <input type=text size=40> Relationship to Child:<input type=text>
+Cell Phone: <input type=text> work phone:<input type=text> 
+E-Mail: <input type=text size=80>
+Place of Employment: <input type=text size=60>
+
+2. Name: <input type=text size=40> Relationship to Child:<input type=text>
+Cell Phone: <input type=text> WorkPhone:<input type=text>  E-Mail: <input type=text size=80>
+Place of Employment:<input type=text size=60> 
+
+<u><b>SEPARATED PARENT</u></b>
+Name:<input type=text size=40> Relationship to Child:<input type=text> 
+Authorized to Pick Up Child: Yes<input type=radio name="rd1"> No<input type=radio name="rd2">
+Home Address: <input type=text size=150> 
+City: <input type=text> State: <input type=text> 
+Contact Phone: <input type=text size=20> E-Mail Address:<input type=text size=80>
+ 
+<u><b>ALL PERSONS AUTHORIZED TO PICK UP CHILD</u></b>
+1. Name:<input type=text size=40>  Relationship to Child: <input type=text> Phone:<input type=text size=40> 
+2. Name: <input type=text size=40> Relationship to Child: <input type=text> Phone:<input type=text size=40> 
+3. Name: <input type=text size=40> Relationship to Child:<input type=text> Phone:<input type=text size=40> 
+
+
+<u><b>CLASS PARTICIPATION</u></b>
+      Class Name           Day               Time
+1. <input type=text size=40> <input type=text> <input type=text>
+2. <input type=text size=40> <input type=text> <input type=text>
+3. <input type=text size=40> <input type=text> <input type=text> 
+
+How did you hear about our studio? 
+<textarea cols="50" rows="3"> Enter here:
+</textarea>
+
+Previous Dance Training:
+Please list prior dance experience (i.e. number of years, technique studied, teachers, etc.):
+<textarea cols="50" rows="3">Enter here:</textarea>
+
+
+<u><b>PAYMENT INFORMATION</u></b>
+Payment Plans:
+Plan A: Automatic bank account debit on the first of each month. Provide a voided check (no check cards or deposit
+slips).
+
+Plan B: Automatic credit card payment on the first of each month.
+
+Plan C: Payment of tuition in full at registration to cover classes through May 2014. (Check, cash, or money order only).
+
+<u><b>Registration Fees:</u></b>
+<ol>
+<li>New Student: $30
+<li>Returning Student: $20
+<li>Third Family Member (parents/siblings): $0
+<li>Student Registered prior to August 2004: $0
+<li>Family Maximum: $60</ol>
+
+I have chosen payment plan<input type=text>. Registration Fee: $<input type=text> Monthly Tuition: $<input type=text>
+I understand that one make-up class is permitted for each class my child misses. 
+Make-up classes must be taken within 30 days of the missed class(es). 
+I also understand that all fees paid are nonrefundable and nontransferable. 
+The parent or guardian is responsible for notifying, in writing, Fireworks  
+of any change to the credit card or checking account. The returned check/declined card fee is $35. 
+Should this provision have to be enforced by legal means, the undersigned person(s)
+ is responsible for payment, as liquidated damages, 
+the costs of collection, plus interest at the legal rate and reasonableattorney’s fees as 
+determined by the Court or 15% of the amount collected failing such determination.
+
+<u><b>PERSON RESPONSIBLE FOR PAYMENT:</u></b>
+PRINT NAME: <input type=text size=40> 
+DATE:<input type=text>  RELATIONSHIP TO STUDENT: <input type=text>
+
+WITNESS (Must be at least 18 years of age):<input type=text size=30> <u><b>
+
+RELEASE AND AUTHORIZATION</u></b>
+Name of Student:<input type=text size=40>
+Indicated in the space below are any health problems or conditions of which the studio 
+should be aware (such as heart, back ,medical, allergy, muscular, pregnancy, diabetes, 
+epilepsy, chemical or neurological condition,special medication,knee/kidney/shoulder problems, etc.). 
+I understand that risk of injury is inherent in any physical activity and I, 
+on behalf of myself and my child, knowingly and voluntarily accept that risk. I, the undersigned, 
+for myself, my heirs, administrators, and executors,hereby waive and release Fireworks  individually
+and Fireworks Dance , Inc. and its staff from any and all claims or damages of any kind arising 
+out of my child’s participation in the exercise and/or dance program of AliceDePass Studio of Dance, Inc. 
+I further certify that the aforementioned student is in proper physical condition to participate in the exercise/dance
+program and that he/she has been examined by a licensed physician and found to be in proper
+ physical condition to participate in said program. I, the undersigned, do hereby authorize 
+Fireworks  or her designated agents (being teachers or administrators employed by Fireworks Dance, Inc.) 
+to obtain medical treatment for my said child in emergency situations where I cannot be reached in time to authorize
+the treating physician to provide such emergency medicalservices. I understand that I am responsible for any
+medical expenses and that the absence of health insurance does not make Alice DePass Studio of Dance, Inc. 
+responsible for payment of medical expenses.
+ This authority includes the power toauthorize any and all treatment deemed necessary 
+under the circumstances by a licensed physician. This power is in essence a power of attorney and shall 
+remain in effect for one year from the date  below.
+ DATE:<input type=text>
+
+WITNESS (Must be at least 18 years of age): <input type=text size=40>
+<u><b>EMERGENCY INFORMATION</u></b>
+Physician: <input type=text size=40> Hospital Preference:<input type=text size=40>
+Insurance Company Policy No.: <input type=text size=30>
+Additional Information/Comments (i.e. blood transfusions, etc): <input type=text size=45>
+                                     <input type=Submit>       <input type=Reset>
+</form>  
+</font></pre></b></body>

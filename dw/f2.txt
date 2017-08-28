@@ -1,0 +1,13 @@
+<html>
+<head>
+<link rel="stylesheet" href="1.css"  type="text/css">
+
+</head>
+<body><pre>
+                    <P style ="width:100 ; height:50; font size=36 pt;filter:glow(color=yellow);border:5px dashed red; ">FEEDBACK</P>
+Please let us know how we may have inspired 
+your dancing skills and what all improvements we can 
+look forward to :) :    
+ 
+<textarea cols="70" rows="25">write your comments here...</textarea><img src="2.jpg"> 
+</pre></body>

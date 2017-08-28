@@ -1,0 +1,23 @@
+h1{
+   text-align: right;
+    z-index: 2;
+  position: relative;
+   }
+
+p{
+   font-size: 20px;
+   z-index: 2;
+   position: relative;
+  }
+
+.video {
+  position: fixed;
+  top: 50%; left: 50%;
+  z-index: 1;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  transform: translate(-50%, -50%);
+}
+
